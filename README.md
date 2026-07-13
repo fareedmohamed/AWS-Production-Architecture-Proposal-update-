@@ -35,7 +35,7 @@ The solution focuses on:
 
 ## Figure 3 - Deployment & Rollback Workflow
 
-![diagrams/deployment-rollback.png](https://github.com/fareedmohamed/-AWS-Production-Architecture-Proposal/blob/70a59b9081ee97e04c8b779b9dfe7ceac698ea53/Deployment%20%26%20Rollback%20Workflow-Deployment%20%26%20Rollback%20Workflow.drawio.png)
+![diagrams/deployment-rollback.png](https://github.com/fareedmohamed/AWS-Production-Architecture-Proposal-update-/blob/b67fe16e3962b67dad0d07263500d35d723f31a0/AWS%20ARC%20New%20-Deplyment%20%26%20Rollback%20.drawio.png)
 
 ---
 
