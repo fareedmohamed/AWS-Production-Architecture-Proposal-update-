@@ -23,7 +23,7 @@ The solution focuses on:
 
 ## Figure 1 - AWS Production Architecture
 
-![diagrams/aws-architecture.png]([https://github.com/fareedmohamed/-AWS-Production-Architecture-Proposal/blob/b5161b5daad28de2000587925196bf29e159717c/AWS%20ARCH_.png](https://github.com/fareedmohamed/AWS-Production-Architecture-Proposal-update-/blob/544a733f7cbf64d7bd3a56880988df03d28bfbae/AWS%20ARC%20-Production%20Arc%20.drawio.png))
+![diagrams/aws-architecture.png](https://github.com/fareedmohamed/AWS-Production-Architecture-Proposal-update-/blob/544a733f7cbf64d7bd3a56880988df03d28bfbae/AWS%20ARC%20-Production%20Arc%20.drawio.png)
 
 ---
 
